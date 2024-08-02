@@ -42,7 +42,7 @@ const PoseidonPage = () => {
                                 Chapter Two: A Betrayal&#39;s Echo
                             </h2>
                             <p className="text-lg">
-                                Circe stood at the precipice of a cliff on the island of Delos, the wind whipping at her robes. Her laughter, a chilling melody, carried on the storm. "Poseidon, my love," she whispered, her voice laced with venom, "you will regret this."
+                                Circe stood at the precipice of a cliff on the island of Delos, the wind whipping at her robes. Her laughter, a chilling melody, carried on the storm. &quot;Poseidon, my love,&quot; she whispered, her voice laced with venom, &quot;you will regret this.&quot;
                             </p>
                             <p className="mt-4 text-lg">
                                 A flashback: Poseidon and Circe, young and in love, standing on the shores of time. &quot;We are eternal, my love,&quot; Poseidon had said, his voice filled with promise. But eternity, it seemed, was a fickle mistress.
