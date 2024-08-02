@@ -82,15 +82,15 @@ const HadesPage = () => {
 
                     <section>
                         <h2 className="text-2xl font-semibold mb-2">A world in shadows</h2>
-                        <p>"It's blurring," Zeus said.</p>
+                        <p>&quot;It's blurring,&quot; Zeus said.</p>
                         <br />
-                        <p>"What is blurring, my dear," Hera asked concernly.</p>
+                        <p>&quot;What is blurring, my dear,&quot; Hera asked concernly.</p>
                         <br />
-                        <p>"The once clear boundary between the mortal realm and the underworld, is blurring", Zues responded.</p>
+                        <p>&quot;The once clear boundary between the mortal realm and the underworld, is blurring&quot;, Zues responded.</p>
                         <br />
-                        <p>"Hades...", Hera murtered. </p>
+                        <p>&quot;Hades...&quot;, Hera murtered. </p>
                         <br />
-                        <p>On Mount Olympus, Zeus watched with growing concern as the power emanating from the underworld intensified. "A war may be inevitable," Zeus answered Hera, as he saw Hades, his brother, was amassing an army of shadows, creatures born of despair and death.</p>
+                        <p>On Mount Olympus, Zeus watched with growing concern as the power emanating from the underworld intensified. &quot;A war may be inevitable,&quot; Zeus answered Hera, as he saw Hades, his brother, was amassing an army of shadows, creatures born of despair and death.</p>
                         <br />
                         <p>Rumors of strange occurrences reached Olympus. Disappearances, inexplicable natural disasters, and a growing sense of unease plagued the mortal world. Zeus knew that Hades was testing the limits, pushing against the cosmic order.</p>
                         <br />

@@ -17,16 +17,16 @@ const PoseidonPage = () => {
                                 Poseidon sat upon his throne of coral, his brow furrowed in contemplation. The tempest he had conjured raged above, a tangible manifestation of his displeasure. Amphitrite, her form as graceful as a dolphin, approached him.
                             </p>
                             <p className="text-lg">
-                                "My lord, your anger is a storm unto itself," she said, her voice a soothing counterpoint to the chaos above.
+                                &quot;My lord, your anger is a storm unto itself,&quot; she said, her voice a soothing counterpoint to the chaos above.
                             </p>
                             <p className="mt-4 text-lg">
-                                Poseidon glanced at her, his expression a mask of divine indifference. "The mortals have forgotten their place," he rumbled, his voice carrying the low growl of thunder. "They treat the sea as a playground, not a sacred entity."
+                                Poseidon glanced at her, his expression a mask of divine indifference. &quot;The mortals have forgotten their place,&quot; he rumbled, his voice carrying the low growl of thunder. &quot;They treat the sea as a playground, not a sacred entity.&quot;
                             </p>
                             <p className="mt-4 text-lg">
-                                On the deck of the Nereid's Grace, Captain Orion clung to the helm, his knuckles white. The ship was a puppet tossed by an enraged puppeteer. Alexios, his young first mate, fear etched on his face, grabbed hold of a rope. "We're going to die, Captain!" he shouted, his voice barely audible over the howling wind.
+                                On the deck of the Nereid's Grace, Captain Orion clung to the helm, his knuckles white. The ship was a puppet tossed by an enraged puppeteer. Alexios, his young first mate, fear etched on his face, grabbed hold of a rope. &quot;We're going to die, Captain!&quot; he shouted, his voice barely audible over the howling wind.
                             </p>
                             <p className="mt-4 text-lg">
-                                Orion's eyes narrowed. "Hold on, boy," he roared back, his voice a battle cry against the tempest. "We'll ride this out."
+                                Orion's eyes narrowed. &quot;Hold on, boy,&quot; he roared back, his voice a battle cry against the tempest. &quot;We'll ride this out.&quot;
                             </p>
                             <p className="mt-4 text-lg">
                                 Below, in the watery depths, a colossal shadow stirred. It was the Kraken, ancient and monstrous, its slumber disturbed by the amplified energy of the storm. A low, guttural growl echoed through the ocean, a promise of destruction.
@@ -45,7 +45,7 @@ const PoseidonPage = () => {
                                 Circe stood at the precipice of a cliff on the island of Delos, the wind whipping at her robes. Her laughter, a chilling melody, carried on the storm. "Poseidon, my love," she whispered, her voice laced with venom, "you will regret this."
                             </p>
                             <p className="mt-4 text-lg">
-                                A flashback: Poseidon and Circe, young and in love, standing on the shores of time. "We are eternal, my love," Poseidon had said, his voice filled with promise. But eternity, it seemed, was a fickle mistress.
+                                A flashback: Poseidon and Circe, young and in love, standing on the shores of time. &quot;We are eternal, my love,&quot; Poseidon had said, his voice filled with promise. But eternity, it seemed, was a fickle mistress.
                             </p>
                             <p className="mt-4 text-lg">
                                 In the present, a tear escaped Circe's eye, a solitary drop against the tempestuous backdrop. It was a tear of triumph, of a love turned to hate, of a goddess descending into darkness.
@@ -64,10 +64,10 @@ const PoseidonPage = () => {
                                 Chapter Three: The Kraken's Onslaught
                             </h2>
                             <p className="text-lg">
-                                The Kraken breached the surface, its colossal form a shadow eclipsing the sun. Its eyes, twin black pits in a face of nightmare, fixed on the terrified crew of the Nereid’s Grace. Orion, his heart pounding in his chest, gripped the helm tighter. This was no ordinary beast; it was a creature of myth, a harbinger of doom.
+                                The Kraken breached the surface, its colossal form a shadow eclipsing the sun. Its eyes, twin black pits in a face of nightmare, fixed on the terrified crew of the Nereid&#039;s Grace. Orion, his heart pounding in his chest, gripped the helm tighter. This was no ordinary beast; it was a creature of myth, a harbinger of doom.
                             </p>
                             <p className="mt-4 text-lg">
-                                Alexios, his face ashen, clung to the railing. “It’s a monster!” he screamed, his voice lost in the cacophony of the storm.
+                                Alexios, his face ashen, clung to the railing. &quot;It&#039;s a monster!&quot; he screamed, his voice lost in the cacophony of the storm.
                             </p>
                             <p className="mt-4 text-lg">
                                 Poseidon watched from his undersea throne, a grim satisfaction in his eyes. The Kraken was his instrument of retribution, a tool to remind mortals of their place in the grand scheme of existence. But even he was taken aback by the creature’s ferocity. It seemed to have a will of its own, a hunger that transcended its creator's intent.

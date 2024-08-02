@@ -13,27 +13,27 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "What troubles you, my dear?" Hera asked, her voice filled with a mix of curiosity and worry.
+                            &quot;What troubles you, my dear?&quot; Hera asked, her voice filled with a mix of curiosity and worry.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Haven't you heard of that ancient prophecy that threatened the balance of the heavens and the earth?" Zeus wondered, as his mind gradually turning more stormy.
+                            &quot;Haven't you heard of that ancient prophecy that threatened the balance of the heavens?&quot; Zeus wondered, as his mind gradually turning more stormy.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Yes, my dear," Hera answered, "but these are just rumours."
+                            &quot;Yes, my dear,&quot; Hera answered, &quot;but these are just rumours.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            Zeus turned to her and say, "there is a disturbance, my dear. A prophecy foretells the rise of a mortal who will challenge foundations of Olympus."
+                            Zeus turned to her and say, &quot;there is a disturbance, my dear. A prophecy foretells the rise of a mortal who will challenge foundations of Olympus.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "It might be a mistake from the prophecy," Hera said while placing a reassuring hand on his arm.
+                            &quot;It might be a mistake from the prophecy,&quot; Hera said while placing a reassuring hand on his arm.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Prophecy never makes mistakes," Zeus remained uneasy, "this time may be distinct from the remaining. The prophecy speaks of one born of both mortal and divine blood, someone with the potential to alter the fate of both realms."
+                            &quot;Prophecy never makes mistakes,&quot; Zeus remained uneasy, &quot;this time may be distinct from the remaining. The prophecy speaks of one born of both mortal and divine blood, someone with the potential to alter the fate of both realms.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -48,19 +48,19 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Who are you?" Aelios panicked and asked.
+                            &quot;Who are you?&quot; Aelios panicked and asked.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "You know who exactly I am," the figure answered.
+                            &quot;You know who exactly I am,&quot; the figure answered.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Athena." he responded.
+                            &quot;Athena.&quot; he responded.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Aelios," she spoke, her voice echoing in the small room, "you have been chosen. A great destiny awaits you. You shall travel to the Oracle of Delphi to uncover the truth of your lineage and your fate."
+                            &quot;Aelios,&quot; she spoke, her voice echoing in the small room, &quot;you have been chosen. A great destiny awaits you. You shall travel to the Oracle of Delphi to uncover the truth of your lineage and your fate.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -72,46 +72,46 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            One evening, as Aelios made camp, he was approached by a cloaked figure. "You look weary, traveler," the stranger said, offering a flask of water. "What drives you to continue on such a perilous path?"
+                            One evening, as Aelios made camp, he was approached by a cloaked figure. &quot;You look weary, traveler,&quot; the stranger said, offering a flask of water. &quot;What drives you to continue on such a perilous path?&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed italic">
-                            Aelios accepted the water gratefully. "I seek the Oracle of Delphi to learn of my fate. My dreams are filled with visions of gods and prophecies. I cannot ignore this calling."
+                            Aelios accepted the water gratefully. &quot;I seek the Oracle of Delphi to learn of my fate. My dreams are filled with visions of gods and prophecies. I cannot ignore this calling.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            The stranger nodded, a glint of understanding in his eyes. "Then may the gods watch over you, Aelios. Your journey is just beginning."
+                            The stranger nodded, a glint of understanding in his eyes. &quot;Then may the gods watch over you, Aelios. Your journey is just beginning.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            On the highest peak of Mount Parnassus, the Oracle awaited him. She spoke in riddles, her eyes seeing beyond the present. "The blood of gods runs in your veins, Aelios. You are the key to a prophecy that could either save or doom the world."
+                            On the highest peak of Mount Parnassus, the Oracle awaited him. She spoke in riddles, her eyes seeing beyond the present. &quot;The blood of gods runs in your veins, Aelios. You are the key to a prophecy that could either save or doom the world.&quot;
                         </p>
                     </section>
 
                     <section>
                         <h2 className="text-3xl font-bold mb-4 text-yellow-300">Chapter Three: The Gathering Storm</h2>
                         <p className="leading-relaxed">
-                            "The young man's strength and determination were undeniable," Zeus talked to himself as he watched Aelios's progress with growing concern. "He must be tested," Zeus declared, summoning Hermes, the messenger god.
+                            &quot;The young man's strength and determination were undeniable,&quot; Zeus talked to himself as he watched Aelios's progress with growing concern.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Hermes!" He summoned the messenger god,"test him."
+                            &quot;Hermes!&quot; He summoned the messenger god,&quot;test him.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Yes, my lord!" Hermes answered.
+                            &quot;Yes, my lord!&quot; Hermes answered.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            Hermes appeared before Aelios, offering guidance but also a series of daunting tasks. "To prove your worth, you must complete three tasks: retrieve the Golden Fleece, slay the Nemean Lion, and outwit the Sphinx."
+                            Hermes appeared before Aelios, offering guidance but also a series of daunting tasks. &quot;To prove your worth, you must complete three tasks: retrieve the Golden Fleece, slay the Nemean Lion, and outwit the Sphinx.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed italic">
-                            Aelios's heart pounded in his chest. "These are the trials of heroes," he said, his voice trembling with both fear and excitement. "Why must I undertake them?"
+                            Aelios's heart pounded in his chest. &quot;These are the trials of heroes,&quot; he said, his voice trembling with both fear and excitement. &quot;Why must I undertake them?&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Because," Hermes replied, "only through these trials can you prove your strength, your wisdom, and your courage. The gods themselves will be watching."
+                            &quot;Because,&quot; Hermes replied, &quot;only through these trials can you prove your strength, your wisdom, and your courage. The gods themselves will be watching.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -119,11 +119,11 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed italic">
-                            "Hand over the fleece, or face our wrath!" their leader snarled, brandishing a gleaming sword.
+                            &quot;Hand over the fleece, or face our wrath!&quot; their leader snarled, brandishing a gleaming sword.
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            Aelios stood his ground, his grip tightening on his own weapon. "I will not yield," he declared. "The gods have tasked me with this quest, and I will see it through."
+                            Aelios stood his ground, his grip tightening on his own weapon. &quot;I will not yield,&quot; he declared. &quot;The gods have tasked me with this quest, and I will see it through.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -135,7 +135,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Your strength is impressive," Aelios muttered through gritted teeth, grappling with the lion. "But I will not be defeated."
+                            &quot;Your strength is impressive,&quot; Aelios muttered through gritted teeth, grappling with the lion. &quot;But I will not be defeated.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -147,7 +147,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "I will pose you a riddle," the Sphinx purred, her eyes gleaming with malice. "Answer correctly, and you may pass. Fail, and you will perish."
+                            &quot;I will pose you a riddle,&quot; the Sphinx purred, her eyes gleaming with malice. &quot;Answer correctly, and you may pass. Fail, and you will perish.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -162,11 +162,11 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "Aelios," Zeus thundered, descending from the skies with a crack of lightning, "you must prove your worth. Show me that you are not just a pawn of fate, but a hero who can stand among the gods."
+                            &quot;Aelios,&quot; Zeus thundered, descending from the skies with a crack of lightning, &quot;you must prove your worth. Show me that you are not just a pawn of fate, but a hero who can stand among the gods.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "I will," Aelios, wielding a sword imbued with divine power, met his father's gaze. "I do not seek to overthrow the gods," he said, his voice steady. "I seek to protect the world I love. If that means facing you, so be it."
+                            &quot;I will,&quot; Aelios, wielding a sword imbued with divine power, met his father's gaze. &quot;I do not seek to overthrow the gods,&quot; he said, his voice steady. &quot;I seek to protect the world I love. If that means facing you, so be it.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -174,7 +174,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "You fight well, my son," Zeus said, his voice booming over the storm. "But can you withstand the full might of the King of the Gods?"
+                            &quot;You fight well, my son,&quot; Zeus said, his voice booming over the storm. &quot;But can you withstand the full might of the King of the Gods?&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -182,7 +182,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            "I will not fall," Aelios shouted, his voice rising above the thunder. "I fight not for power, but for the love of my people."
+                            &quot;I will not fall,&quot; Aelios shouted, his voice rising above the thunder. &quot;I fight not for power, but for the love of my people.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -190,11 +190,11 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            In the end, it was not strength alone that decided the battle, but wisdom and heart. Aelios, battered but unbroken, lowered his weapon. "I seek not to destroy you, Father," he said, his voice filled with resolve. "I seek to protect what is precious to me."
+                            In the end, it was not strength alone that decided the battle, but wisdom and heart. Aelios, battered but unbroken, lowered his weapon. &quot;I seek not to destroy you, Father,&quot; he said, his voice filled with resolve. &quot;I seek to protect what is precious to me.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            Zeus, seeing the truth in his son's eyes, relented. "You have proven yourself, Aelios. The prophecy was not one of doom, but of hope. You are a bridge between gods and mortals, a beacon of unity."
+                            Zeus, seeing the truth in his son's eyes, relented. &quot;You have proven yourself, Aelios. The prophecy was not one of doom, but of hope. You are a bridge between gods and mortals, a beacon of unity.&quot;
                         </p>
                     </section>
 
@@ -205,11 +205,11 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            One day, as Aelios walked through the halls of Olympus, he encountered Athena. "You have done well, Aelios," she said, her eyes filled with pride. "Your actions have shown that mortals and gods can coexist and thrive together."
+                            One day, as Aelios walked through the halls of Olympus, he encountered Athena. &quot;You have done well, Aelios,&quot; she said, her eyes filled with pride. &quot;Your actions have shown that mortals and gods can coexist and thrive together.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            Aelios nodded, a smile on his face. "Thank you, Athena. Your guidance was invaluable. I will continue to uphold the values of both worlds."
+                            Aelios nodded, a smile on his face. &quot;Thank you, Athena. Your guidance was invaluable. I will continue to uphold the values of both worlds.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
