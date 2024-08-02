@@ -14,7 +14,7 @@ const HadesPage = () => {
                         <br />
                         <p>The mortal was a warrior, a ghost of a man named Orpheus. His eyes held a spark of defiance, a refusal to accept his fate. Orpheus, a bard and a warrior, had lost his love, Eurydice, to the underworld. His music had soothed even Cerberus, the three-headed hound, into a gentle slumber. But the Fates, cruel and indifferent, had denied him a reunion.</p>
                         <br />
-                        <p>Hades, intrigued by this mortal's spirit, offered a proposition. If Orpheus could navigate the underworld, face its perils, and retrieve Eurydice from the asphodel fields, he would be granted a chance at eternal life together. It was a gamble, a test of the mortal's will.</p>
+                        <p>Hades, intrigued by this mortal&#39;s spirit, offered a proposition. If Orpheus could navigate the underworld, face its perils, and retrieve Eurydice from the asphodel fields, he would be granted a chance at eternal life together. It was a gamble, a test of the mortal&#39;s will.</p>
                         <br />
                         <p>Orpheus accepted. And so began his descent into the underworld, a journey fraught with peril and hope.</p>
                         <br />
@@ -25,7 +25,7 @@ const HadesPage = () => {
                         <h2 className="text-2xl font-semibold mb-2">A Clash of Titans</h2>
                         <p>On Mount Olympus, Zeus sat upon his golden throne, his gaze fixed on the horizon. A storm was brewing, but it was not one of weather. It was a conflict of wills, a clash between brothers. Hades, the Lord of the Underworld, had grown increasingly independent, his domain a realm unto itself.</p>
                         <br />
-                        <p>Zeus had watched his brother's ascension with a mixture of pride and unease. Hades was a force to be reckoned with, his power as vast and impenetrable as the underworld itself. But there was a darkness growing within Hades, a shadow that cast a long reach into the mortal realm.</p>
+                        <p>Zeus had watched his brother&#39;s ascension with a mixture of pride and unease. Hades was a force to be reckoned with, his power as vast and impenetrable as the underworld itself. But there was a darkness growing within Hades, a shadow that cast a long reach into the mortal realm.</p>
                         <br />
                         <p>A messenger arrived, bearing tidings of Orpheus, a mortal who dared to challenge the underworld. Zeus listened with interest. A mortal who could navigate the realm of the dead? It was a tale worthy of the gods. Yet, underlying the tale was a deeper concern. Hades was gathering power, and Orpheus could be a pawn in a larger game.</p>
                         <br />
@@ -37,15 +37,15 @@ const HadesPage = () => {
 
                         <p>As Orpheus descended deeper into the underworld, he encountered trials that tested his courage and resolve. Cerberus, the three-headed hound, was the first obstacle. But Orpheus, with his music, calmed the beast, its three heads resting gently on his feet.</p>
                         <br />
-                        <p>Meanwhile, on Olympus, Zeus grew increasingly wary. Hades had shown a disregard for the divine order, a challenge to Zeus' supreme authority. The Oracle of Delphi, a voice of prophecy, had whispered of a coming darkness, a shadow that would eclipse the sun.</p>
+                        <p>Meanwhile, on Olympus, Zeus grew increasingly wary. Hades had shown a disregard for the divine order, a challenge to Zeus&#39; supreme authority. The Oracle of Delphi, a voice of prophecy, had whispered of a coming darkness, a shadow that would eclipse the sun.</p>
                         <br />
-                        <p>Orpheus's journey took on a new significance. He was not merely a mortal seeking to reclaim his lost love, but a potential catalyst for a cosmic upheaval. If he succeeded, he could weaken Hades' power. But if he failed, the consequences would be catastrophic.</p>
+                        <p>Orpheus&#39;s journey took on a new significance. He was not merely a mortal seeking to reclaim his lost love, but a potential catalyst for a cosmic upheaval. If he succeeded, he could weaken Hades&#39; power. But if he failed, the consequences would be catastrophic.</p>
                         <br />
                         <p>The stage was set for a confrontation between the two brothers. A war, not of armies, but of wills, was imminent. And at the heart of it all was a mortal, a musician whose courage could change the fate of the world.</p>
                     </section>
 
                     <section>
-                        <h2 className="text-2xl font-semibold mb-2">Orpheus' Decision</h2>
+                        <h2 className="text-2xl font-semibold mb-2">Orpheus&#39; Decision</h2>
                         <p>Orpheus stood at the precipice of the underworld, his heart a heavy stone in his chest. The Styx, a river of oblivion, stretched before him, its waters inky and forbidding. He clutched his lyre, his only weapon against the darkness.</p>
                         <br />
                         <p>The ferryman, Charon, a grim figure, eyed Orpheus with skepticism. &quot;No mortal returns from these shores,&quot; he warned, his voice a grating whisper.</p>
@@ -58,22 +58,22 @@ const HadesPage = () => {
                         <br />
                         <p>Finally, he reached the asphodel fields, a vast expanse of gray where the souls of the departed found eternal rest. Among the countless souls, he found Eurydice, her form as ethereal as a mist. Her eyes, filled with a longing that mirrored his own, met his gaze.</p>
                         <br />
-                        <p>Orpheus played for her, his music a love song that echoed through the underworld. Eurydice, moved by the melody, took a step towards him. Hope ignited in Orpheus' heart. But as they began their ascent, a shadow fell over them. A voice, cold and menacing, echoed through the underworld. &quot;No mortal escapes my realm,&quot; it said.</p>
+                        <p>Orpheus played for her, his music a love song that echoed through the underworld. Eurydice, moved by the melody, took a step towards him. Hope ignited in Orpheus&#39; heart. But as they began their ascent, a shadow fell over them. A voice, cold and menacing, echoed through the underworld. &quot;No mortal escapes my realm,&quot; it said.</p>
                     </section>
 
                     <section>
-                        <h2 className="text-2xl font-semibold mb-2">Orpheus' Descent</h2>
+                        <h2 className="text-2xl font-semibold mb-2">Orpheus&#39; Descent</h2>
                         <p>Orpheus stepped into the Styx, its icy waters closing over his head. The world dissolved into a swirling blackness. Then, light, a dim, ethereal glow, surrounded him. He was in the underworld.</p>
                         <br />
                         <p>The air was thick with the scent of decay and despair. Shadows danced and twisted, taking shape of monstrous forms. Yet, Orpheus was undeterred. His lyre, a beacon of hope in this desolate realm, filled the air with a melody of defiance.</p>
                         <br />
                         <p>Cerberus, the three-headed hound, was the first obstacle. Its eyes, burning with an otherworldly hunger, were fixed on Orpheus. But as the music filled the air, the beast lowered its heads, its ferocity replaced by a mournful calm.</p>
                         <br />
-                        <p>He journeyed through the asphodel fields, a vast expanse of gray where the souls of the departed wandered aimlessly. The lost and the forgotten moved like shadows, their eyes empty of hope. Orpheus' music, a requiem for the living and a promise for the dead, brought a flicker of life to their existence.</p>
+                        <p>He journeyed through the asphodel fields, a vast expanse of gray where the souls of the departed wandered aimlessly. The lost and the forgotten moved like shadows, their eyes empty of hope. Orpheus&#39; music, a requiem for the living and a promise for the dead, brought a flicker of life to their existence.</p>
                         <br />
                         <p>Finally, he found her. Eurydice, a translucent figure in the ethereal light. Her eyes, filled with a longing that mirrored his own, held a touch of disbelief. Their hands reached out, a silent promise of reunion.</p>
                         <br />
-                        <p>As they turned to leave, a cold dread seized Orpheus. He knew the rules of the underworld. He couldn't look back. But the temptation was overwhelming. A glance, just a glance, to reassure himself of her presence.</p>
+                        <p>As they turned to leave, a cold dread seized Orpheus. He knew the rules of the underworld. He couldn&#39;t look back. But the temptation was overwhelming. A glance, just a glance, to reassure himself of her presence.</p>
                         <br />
                         <p>In that moment of weakness, he turned. Eurydice, a fading silhouette, was pulled back into the eternal darkness. A scream, a primal cry of anguish, echoed through the underworld. Orpheus was alone.</p>
                         <br />
@@ -82,7 +82,7 @@ const HadesPage = () => {
 
                     <section>
                         <h2 className="text-2xl font-semibold mb-2">A world in shadows</h2>
-                        <p>&quot;It's blurring,&quot; Zeus said.</p>
+                        <p>&quot;It&#39;s blurring,&quot; Zeus said.</p>
                         <br />
                         <p>&quot;What is blurring, my dear,&quot; Hera asked concernly.</p>
                         <br />
@@ -102,21 +102,21 @@ const HadesPage = () => {
                     </section>
 
                     <section>
-                        <h2 className="text-2xl font-semibold mb-2">Orpheus' Return</h2>
+                        <h2 className="text-2xl font-semibold mb-2">Orpheus&#39; Return</h2>
                         <p>Orpheus emerged from the Styx, his body shivering from the icy embrace of the underworld. The world above was bathed in sunlight, a stark contrast to the eternal gloom he had left behind. His lyre, still clutched in his hands, was a silent witness to his ordeal.</p>
                         <br />
                         <p>His return was met with a mixture of awe and pity. The loss of Eurydice had transformed him. His once joyful melodies were now filled with a haunting melancholy. People were drawn to him, their own sorrows finding solace in his music.</p>
                         <br />
                         <p>But Orpheus was a shadow of his former self. His heart, once filled with love, was now a desolate wasteland. The world, once vibrant with color, appeared muted. He wandered from city to city, his lyre the only companion.</p>
                         <br />
-                        <p>In the mountains, far from the noise of human habitation, Orpheus found solace. There, surrounded by nature's beauty, he played his music. The trees seemed to listen, the rivers to sing along. In those moments, he felt a connection to something greater than himself, a hint of peace amidst the storm of his grief.</p>
+                        <p>In the mountains, far from the noise of human habitation, Orpheus found solace. There, surrounded by nature&#39;s beauty, he played his music. The trees seemed to listen, the rivers to sing along. In those moments, he felt a connection to something greater than himself, a hint of peace amidst the storm of his grief.</p>
                         <br />
                         <p>But the memory of Eurydice was a constant companion, a ghost haunting his dreams. He would often find himself talking to her, his voice a whisper carried by the wind. In these moments, he felt closest to her, as if she were still by his side.</p>
                     </section>
 
                     <section>
                         <h2 className="text-2xl font-semibold mb-2">The wicked decision</h2>
-                        <p>On Mount Olympus, Zeus watched with growing concern the aftermath of the battle between Orpheus and the underworld. The mortal's courage had stirred something within him, a flicker of hope in the face of overwhelming darkness. Yet, the shadow of Hades loomed large.</p>
+                        <p>On Mount Olympus, Zeus watched with growing concern the aftermath of the battle between Orpheus and the underworld. The mortal&#39;s courage had stirred something within him, a flicker of hope in the face of overwhelming darkness. Yet, the shadow of Hades loomed large.</p>
                         <br />
                         <p>Hades, in his underworld kingdom, felt a growing isolation. The loss of Eurydice, a mortal, had shaken the foundations of his realm. The once impenetrable darkness was now tinged with regret. A war between the brothers was inevitable, a clash that would determine the fate of both gods and mortals.</p>
                         <br />
@@ -144,13 +144,13 @@ const HadesPage = () => {
 
                     <section>
                         <h2 className="text-2xl font-semibold mb-2">Desperate Descent</h2>
-                        <p>The world above was a cruel mockery. Sunlight, once a comforting embrace, now felt like a blinding betrayal. Without Eurydice, every bird's song was a mournful echo, every flower a stark reminder of their lost happiness. Orpheus, his lyre now silent, was a ghost in the land of the living.</p>
+                        <p>The world above was a cruel mockery. Sunlight, once a comforting embrace, now felt like a blinding betrayal. Without Eurydice, every bird&#39;s song was a mournful echo, every flower a stark reminder of their lost happiness. Orpheus, his lyre now silent, was a ghost in the land of the living.</p>
                         <br />
                         <p>Driven by a love that refused to die, he sought the darkest corners of the world. There, in a hidden chasm, he found an ancient, forgotten path. It was said to lead to the underworld, a perilous journey into the realm of shadows. With a heart heavy with despair and a hope as fragile as a whisper, Orpheus descended.</p>
                         <br />
-                        <p>The descent was a harrowing ordeal. The earth groaned beneath his feet, and the air was thick with the stench of decay. Fear gnawed at his courage, but the memory of Eurydice's gentle smile pulled him deeper. He encountered monstrous shadows, their eyes burning with an otherworldly malice, but his music, once again awakened, held them at bay.</p>
+                        <p>The descent was a harrowing ordeal. The earth groaned beneath his feet, and the air was thick with the stench of decay. Fear gnawed at his courage, but the memory of Eurydice&#39;s gentle smile pulled him deeper. He encountered monstrous shadows, their eyes burning with an otherworldly malice, but his music, once again awakened, held them at bay.</p>
                         <br />
-                        <p>Finally, he reached the Styx, the river that divided the living from the dead. Charon, the ferryman, eyed him with a knowing gaze. Orpheus played a mournful melody, a plea for passage. Charon, moved by the music's raw emotion, agreed.</p>
+                        <p>Finally, he reached the Styx, the river that divided the living from the dead. Charon, the ferryman, eyed him with a knowing gaze. Orpheus played a mournful melody, a plea for passage. Charon, moved by the music&#39;s raw emotion, agreed.</p>
                         <br />
                         <p>The underworld was a desolate, barren landscape. The air was cold and still, and the only sounds were the mournful wails of lost souls. Orpheus searched tirelessly, his heart pounding with hope and dread. At last, in a shadowy grove, he found her. Eurydice, a pale and ethereal figure, stood amidst the ashen trees.</p>
                         <br />
@@ -167,9 +167,9 @@ const HadesPage = () => {
                         <br />
                         <p>His plan was as audacious as it was dangerous. He would lead Eurydice out of the underworld, but he would not look back at her until they reached the world of the living. The myth warned that to look back would lose her forever.</p>
                         <br />
-                        <p>With a trembling hand, he extended his own. Eurydice's fingers laced through his, their touch a silent promise. Together, they began the arduous journey back.</p>
+                        <p>With a trembling hand, he extended his own. Eurydice&#39;s fingers laced through his, their touch a silent promise. Together, they began the arduous journey back.</p>
                         <br />
-                        <p>The path was fraught with peril. Shadows lunged, unseen hands tried to pull them back, and the mournful cries of the damned echoed in their ears. But Orpheus' music, a shield of sound, protected them. Eurydice clung to him, her trust in his strength their only beacon.</p>
+                        <p>The path was fraught with peril. Shadows lunged, unseen hands tried to pull them back, and the mournful cries of the damned echoed in their ears. But Orpheus&#39; music, a shield of sound, protected them. Eurydice clung to him, her trust in his strength their only beacon.</p>
                         <br />
                         <p>As they neared the surface, the light grew stronger. Hope, a fragile flame, flickered within Orpheus. He could almost feel the warmth of the sun on his skin, the sweet scent of life. But the temptation to turn and see if Eurydice was still there grew with every step.</p>
                         <br />
@@ -182,15 +182,15 @@ const HadesPage = () => {
                         <h2 className="text-2xl font-semibold mb-2">A Faustian Bargain</h2>
                         <p>As Orpheus stood at the precipice of the underworld, the sweet scent of the living world tantalizingly close, a tempest brewed behind him. </p>
                         <br />
-                        <p>A colossal figure, cloaked in an ominous mist, emerged from the shadows. The air crackled with unseen energy, and the ground trembled beneath his immense weight. Fear, a cold, clammy hand, gripped Orpheus' heart. Yet, the image of Eurydice, a beacon of hope, compelled him to stand tall.</p>
+                        <p>A colossal figure, cloaked in an ominous mist, emerged from the shadows. The air crackled with unseen energy, and the ground trembled beneath his immense weight. Fear, a cold, clammy hand, gripped Orpheus&#39; heart. Yet, the image of Eurydice, a beacon of hope, compelled him to stand tall.</p>
                         <br />
-                        <p>Hades, the lord of the underworld, stepped from the mist. His eyes, twin pools of obsidian, held a depth of power and sorrow. Orpheus, despite the terror, could sense a flicker of something else in the god's gaze - perhaps a grudging respect for his love.</p>
+                        <p>Hades, the lord of the underworld, stepped from the mist. His eyes, twin pools of obsidian, held a depth of power and sorrow. Orpheus, despite the terror, could sense a flicker of something else in the god&#39;s gaze - perhaps a grudging respect for his love.</p>
                         <br />
                         <p>Orpheus knew the futility of his position. Against Hades, the god of the dead, he was a mere mortal. His love for Eurydice, while a force of nature, was no match for the ruler of the underworld. Yet, he would not yield.</p>
                         <br />
-                        <p>Hades, unmoved by Orpheus' defiance, spoke. His voice was like the rumble of distant thunder, carrying a weight of centuries. &quot;Mortal,&quot; he began, his tone measured, &quot;your courage is admirable, but your defiance is foolish. You cannot defy the laws of the underworld and reclaim your beloved.&quot;</p>
+                        <p>Hades, unmoved by Orpheus&#39; defiance, spoke. His voice was like the rumble of distant thunder, carrying a weight of centuries. &quot;Mortal,&quot; he began, his tone measured, &quot;your courage is admirable, but your defiance is foolish. You cannot defy the laws of the underworld and reclaim your beloved.&quot;</p>
                         <br />
-                        <p>A long, heavy silence followed. Orpheus' heart pounded in his ears. Then, unexpectedly, Hades offered a proposition. &quot;I will allow you to see Eurydice once a decade, a concession to your love. But this pact comes with a price. You must fake your death. Your sacrifice will quell the growing tensions between Zeus and myself, ensuring peace in the realms.&quot;</p>
+                        <p>A long, heavy silence followed. Orpheus&#39; heart pounded in his ears. Then, unexpectedly, Hades offered a proposition. &quot;I will allow you to see Eurydice once a decade, a concession to your love. But this pact comes with a price. You must fake your death. Your sacrifice will quell the growing tensions between Zeus and myself, ensuring peace in the realms.&quot;</p>
                         <br />
                         <p>The offer was a bitter pill to swallow. To deceive the world, to pretend death, was a torment in itself. Yet, the promise of seeing Eurydice, even if only for fleeting moments, was a siren song. A decade was an eternity, but it was better than nothing.</p>
                         <br />
@@ -203,9 +203,9 @@ const HadesPage = () => {
                         <br />
                         <p>Decades turned into centuries. Orpheus, in the guise of a wandering minstrel, kept his promise to Hades. Every ten years, he descended into the underworld, a pilgrimage of love and longing. In those stolen moments, he and Eurydice were reunited, their love as fervent as ever, though tempered by the knowledge of their fleeting time together.</p>
                         <br />
-                        <p>Above ground, the world healed. The specter of war between Zeus and Hades receded, replaced by an uneasy peace. Orpheus' sacrifice, unknown to most, had averted a cataclysmic conflict.</p>
+                        <p>Above ground, the world healed. The specter of war between Zeus and Hades receded, replaced by an uneasy peace. Orpheus&#39; sacrifice, unknown to most, had averted a cataclysmic conflict.</p>
                         <br />
-                        <p>His music, though muted, continued to echo through the ages. His legend, a poignant tale of love and loss, became a beacon of hope for lovers everywhere. And in the depths of the underworld, his spirit lived on, intertwined with Eurydice's, a testament to a love that defied even the gods.</p>
+                        <p>His music, though muted, continued to echo through the ages. His legend, a poignant tale of love and loss, became a beacon of hope for lovers everywhere. And in the depths of the underworld, his spirit lived on, intertwined with Eurydice&#39;s, a testament to a love that defied even the gods.</p>
                         <br />
                         <p>The story of Orpheus thus concludes, a bittersweet symphony of love, loss, and sacrifice.</p>
                     </section>

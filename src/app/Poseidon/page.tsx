@@ -4,7 +4,7 @@ const PoseidonPage = () => {
     return (
         <div className="min-h-screen bg-[#000000] text-white flex items-center justify-center p-6">
             <div className="max-w-4xl p-8 bg-gradient-to-b from-blue-900 to-gray-800 rounded-lg shadow-lg">
-                <h1 className="text-4xl font-bold mb-8 text-center">Poseidon and Circe's retribution</h1>
+                <h1 className="text-4xl font-bold mb-8 text-center">Poseidon and Circe&#39;s retribution</h1>
                 <div className="space-y-10">
                     <section className="relative">
                         <img src="/images/storm.jpg" alt="Storm" className="absolute inset-0 w-full h-full object-cover opacity-20" />
@@ -23,10 +23,10 @@ const PoseidonPage = () => {
                                 Poseidon glanced at her, his expression a mask of divine indifference. &quot;The mortals have forgotten their place,&quot; he rumbled, his voice carrying the low growl of thunder. &quot;They treat the sea as a playground, not a sacred entity.&quot;
                             </p>
                             <p className="mt-4 text-lg">
-                                On the deck of the Nereid's Grace, Captain Orion clung to the helm, his knuckles white. The ship was a puppet tossed by an enraged puppeteer. Alexios, his young first mate, fear etched on his face, grabbed hold of a rope. &quot;We're going to die, Captain!&quot; he shouted, his voice barely audible over the howling wind.
+                                On the deck of the Nereid&#39;s Grace, Captain Orion clung to the helm, his knuckles white. The ship was a puppet tossed by an enraged puppeteer. Alexios, his young first mate, fear etched on his face, grabbed hold of a rope. &quot;We&#39;re going to die, Captain!&quot; he shouted, his voice barely audible over the howling wind.
                             </p>
                             <p className="mt-4 text-lg">
-                                Orion's eyes narrowed. &quot;Hold on, boy,&quot; he roared back, his voice a battle cry against the tempest. &quot;We'll ride this out.&quot;
+                                Orion&#39;s eyes narrowed. &quot;Hold on, boy,&quot; he roared back, his voice a battle cry against the tempest. &quot;We&#39;ll ride this out.&quot;
                             </p>
                             <p className="mt-4 text-lg">
                                 Below, in the watery depths, a colossal shadow stirred. It was the Kraken, ancient and monstrous, its slumber disturbed by the amplified energy of the storm. A low, guttural growl echoed through the ocean, a promise of destruction.
@@ -39,7 +39,7 @@ const PoseidonPage = () => {
                         <div className="relative p-6 bg-black bg-opacity-50 rounded-md shadow-md">
                             <h2 className="text-3xl font-semibold mb-4 flex items-center">
                                 <i className="fas fa-mountain mr-2"></i>
-                                Chapter Two: A Betrayal's Echo
+                                Chapter Two: A Betrayal&#39;s Echo
                             </h2>
                             <p className="text-lg">
                                 Circe stood at the precipice of a cliff on the island of Delos, the wind whipping at her robes. Her laughter, a chilling melody, carried on the storm. "Poseidon, my love," she whispered, her voice laced with venom, "you will regret this."
@@ -48,7 +48,7 @@ const PoseidonPage = () => {
                                 A flashback: Poseidon and Circe, young and in love, standing on the shores of time. &quot;We are eternal, my love,&quot; Poseidon had said, his voice filled with promise. But eternity, it seemed, was a fickle mistress.
                             </p>
                             <p className="mt-4 text-lg">
-                                In the present, a tear escaped Circe's eye, a solitary drop against the tempestuous backdrop. It was a tear of triumph, of a love turned to hate, of a goddess descending into darkness.
+                                In the present, a tear escaped Circe&#39;s eye, a solitary drop against the tempestuous backdrop. It was a tear of triumph, of a love turned to hate, of a goddess descending into darkness.
                             </p>
                             <p className="mt-4 text-lg">
                                 As the Kraken rose from the depths, its form eclipsing the moon, Circe smiled. Her plan was unfolding perfectly. The stage was set for a cataclysmic showdown, a battle that would echo through eternity.
@@ -61,7 +61,7 @@ const PoseidonPage = () => {
                         <div className="relative p-6 bg-black bg-opacity-50 rounded-md shadow-md">
                             <h2 className="text-3xl font-semibold mb-4 flex items-center">
                                 <i className="fas fa-water mr-2"></i>
-                                Chapter Three: The Kraken's Onslaught
+                                Chapter Three: The Kraken&#39;s Onslaught
                             </h2>
                             <p className="text-lg">
                                 The Kraken breached the surface, its colossal form a shadow eclipsing the sun. Its eyes, twin black pits in a face of nightmare, fixed on the terrified crew of the Nereid&#039;s Grace. Orion, his heart pounding in his chest, gripped the helm tighter. This was no ordinary beast; it was a creature of myth, a harbinger of doom.
@@ -70,7 +70,7 @@ const PoseidonPage = () => {
                                 Alexios, his face ashen, clung to the railing. &quot;It&#039;s a monster!&quot; he screamed, his voice lost in the cacophony of the storm.
                             </p>
                             <p className="mt-4 text-lg">
-                                Poseidon watched from his undersea throne, a grim satisfaction in his eyes. The Kraken was his instrument of retribution, a tool to remind mortals of their place in the grand scheme of existence. But even he was taken aback by the creature’s ferocity. It seemed to have a will of its own, a hunger that transcended its creator's intent.
+                                Poseidon watched from his undersea throne, a grim satisfaction in his eyes. The Kraken was his instrument of retribution, a tool to remind mortals of their place in the grand scheme of existence. But even he was taken aback by the creature’s ferocity. It seemed to have a will of its own, a hunger that transcended its creator&#39;s intent.
                             </p>
                             <p className="mt-4 text-lg">
                                 On the island of Delos, Circe smiled. The Kraken was a pawn in her grand game, a tool to sow chaos and destruction. Her eyes, filled with an otherworldly light, focused on the struggling ship. It was time for the next phase of her plan.
@@ -86,13 +86,13 @@ const PoseidonPage = () => {
                                 Chapter Four: A Hero Emerges
                             </h2>
                             <p className="text-lg">
-                                As the Kraken's tentacles lashed out, a figure emerged from the churning waters. Proteus, a man of the sea, stood defiant against the monstrous creature. His body, rippled with muscles, was as powerful as the ocean itself. Armed with a trident forged in the heart of a dying star, he met the Kraken in a battle that shook the very foundations of the sea.
+                                As the Kraken&#39;s tentacles lashed out, a figure emerged from the churning waters. Proteus, a man of the sea, stood defiant against the monstrous creature. His body, rippled with muscles, was as powerful as the ocean itself. Armed with a trident forged in the heart of a dying star, he met the Kraken in a battle that shook the very foundations of the sea.
                             </p>
                             <p className="mt-4 text-lg">
-                                On the ship, Orion watched in awe as the stranger fought with a ferocity that matched the beast's. Hope ignited in his heart. Perhaps, just perhaps, they could survive this ordeal.
+                                On the ship, Orion watched in awe as the stranger fought with a ferocity that matched the beast&#39;s. Hope ignited in his heart. Perhaps, just perhaps, they could survive this ordeal.
                             </p>
                             <p className="mt-4 text-lg">
-                                As the battle raged, Poseidon felt a surge of pride. This mortal, with his courage and skill, was worthy of his attention. But Circe watched with a cold satisfaction. The hero was a pawn in her game, a distraction from the true prize: Poseidon's power.
+                                As the battle raged, Poseidon felt a surge of pride. This mortal, with his courage and skill, was worthy of his attention. But Circe watched with a cold satisfaction. The hero was a pawn in her game, a distraction from the true prize: Poseidon&#39;s power.
                             </p>
                             <p className="mt-4 text-lg">
                                 The fate of the world hung in the balance. The clash between man, god, and monster was a spectacle of epic proportions, a drama played out on the grand stage of the ocean.

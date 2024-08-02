@@ -2,9 +2,11 @@ import React from 'react';
 
 const ZeusPage = () => {
     return (
-        <div className="min-h-screen bg-[#000000] text-white flex items-center justify-center" style={{ backgroundImage: 'url(/path-to-your-background-image.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
+        <div className="min-h-screen bg-[#000000] text-white flex items-center justify-center" style={{
+            backgroundImage: 'url(/ path - to - your - background - image.jpg)', backgroundSize: 'cover', backgroundPosition: 'center'
+        }}>
             <div className="max-w-4xl p-8 bg-[#000000] bg-opacity-90 rounded-lg shadow-lg border border-white">
-                <h1 className="text-4xl font-extrabold mb-6 text-center text-white">The Thunder's Roar: A Tale of Zeus</h1>
+                <h1 className="text-4xl font-extrabold mb-6 text-center text-white">The Thunder&#39;s Roar: A Tale of Zeus</h1>
                 <div className="space-y-8">
                     <section>
                         <h2 className="text-3xl font-bold mb-4 text-yellow-300">Chapter One: The Heavens Stir</h2>
@@ -17,7 +19,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            &quot;Haven't you heard of that ancient prophecy that threatened the balance of the heavens?&quot; Zeus wondered, as his mind gradually turning more stormy.
+                            &quot;Haven&#39;t you heard of that ancient prophecy that threatened the balance of the heavens?&quot; Zeus wondered, as his mind gradually turning more stormy.
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -42,7 +44,7 @@ const ZeusPage = () => {
                     </section>
 
                     <section>
-                        <h2 className="text-3xl font-bold mb-4 text-yellow-300">Chapter Two: The Mortal's Quest</h2>
+                        <h2 className="text-3xl font-bold mb-4 text-yellow-300">Chapter Two: The Mortal&#39;s Quest</h2>
                         <p className="leading-relaxed">
                             One night, Aelios was visited by a vision. An ethereal figure, cloaked in golden light, appeared before him.
                         </p>
@@ -91,7 +93,7 @@ const ZeusPage = () => {
                     <section>
                         <h2 className="text-3xl font-bold mb-4 text-yellow-300">Chapter Three: The Gathering Storm</h2>
                         <p className="leading-relaxed">
-                            &quot;The young man's strength and determination were undeniable,&quot; Zeus talked to himself as he watched Aelios's progress with growing concern.
+                            &quot;The young man&#39;s strength and determination were undeniable,&quot; Zeus talked to himself as he watched Aelios&#39;s progress with growing concern.
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -107,7 +109,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed italic">
-                            Aelios's heart pounded in his chest. &quot;These are the trials of heroes,&quot; he said, his voice trembling with both fear and excitement. &quot;Why must I undertake them?&quot;
+                            Aelios&#39;s heart pounded in his chest. &quot;These are the trials of heroes,&quot; he said, his voice trembling with both fear and excitement. &quot;Why must I undertake them?&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -131,7 +133,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            Next, he faced the Nemean Lion, a beast of legendary strength and ferocity. The battle was intense, with Aelios struggling against the creature's seemingly invincible hide.
+                            Next, he faced the Nemean Lion, a beast of legendary strength and ferocity. The battle was intense, with Aelios struggling against the creature&#39;s seemingly invincible hide.
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -151,14 +153,14 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            The Sphinx's riddle was complex, but Aelios's keen mind and the wisdom granted by Athena guided him. He answered correctly, and the Sphinx, true to her word, allowed him to pass.
+                            The Sphinx&#39;s riddle was complex, but Aelios&#39;s keen mind and the wisdom granted by Athena guided him. He answered correctly, and the Sphinx, true to her word, allowed him to pass.
                         </p>
                     </section>
 
                     <section>
                         <h2 className="text-3xl font-bold mb-4 text-yellow-300">Chapter Four: The Clash of Titans</h2>
                         <p className="leading-relaxed">
-                            Zeus watched Aelios's triumphs with a mixture of pride and apprehension. The time had come to confront his son. The heavens darkened, and the earth trembled as father and son faced each other.
+                            Zeus watched Aelios&#39;s triumphs with a mixture of pride and apprehension. The time had come to confront his son. The heavens darkened, and the earth trembled as father and son faced each other.
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -166,7 +168,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            &quot;I will,&quot; Aelios, wielding a sword imbued with divine power, met his father's gaze. &quot;I do not seek to overthrow the gods,&quot; he said, his voice steady. &quot;I seek to protect the world I love. If that means facing you, so be it.&quot;
+                            &quot;I will,&quot; Aelios, wielding a sword imbued with divine power, met his father&#39;s gaze. &quot;I do not seek to overthrow the gods,&quot; he said, his voice steady. &quot;I seek to protect the world I love. If that means facing you, so be it.&quot;
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -186,7 +188,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            Summoning all his strength, Aelios deflected the lightning and charged at Zeus. Their clash shook the heavens, but Aelios's determination and heart shone through. He refused to back down, even as the odds seemed insurmountable.
+                            Summoning all his strength, Aelios deflected the lightning and charged at Zeus. Their clash shook the heavens, but Aelios&#39;s determination and heart shone through. He refused to back down, even as the odds seemed insurmountable.
                         </p>
                         <br />
                         <p className="leading-relaxed">
@@ -194,7 +196,7 @@ const ZeusPage = () => {
                         </p>
                         <br />
                         <p className="leading-relaxed">
-                            Zeus, seeing the truth in his son's eyes, relented. &quot;You have proven yourself, Aelios. The prophecy was not one of doom, but of hope. You are a bridge between gods and mortals, a beacon of unity.&quot;
+                            Zeus, seeing the truth in his son&#39;s eyes, relented. &quot;You have proven yourself, Aelios. The prophecy was not one of doom, but of hope. You are a bridge between gods and mortals, a beacon of unity.&quot;
                         </p>
                     </section>
 
@@ -222,7 +224,7 @@ const ZeusPage = () => {
                     </section>
                 </div>
             </div>
-        </div>
+        </div >
     );
 }
 
