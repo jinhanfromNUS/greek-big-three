@@ -13,7 +13,7 @@ const Header = () => {
                 <div className="hidden lg:flex gap-3.5 text-white text-[30px] flex-grow justify-start mysterious-font">
                     <Image src={title} alt="Home" width={200} height={200} className="ml-auto" />
                 </div>
-                <div className="hidden lg:flex gap-3.5 text-white text-[30px] flex-grow justify-end mysterious-font">
+                <div className="hidden lg:flex gap-3.5 text-white text-[50px] flex-grow justify-end mysterious-font">
                     <Link href="/">
                         <BiHome />
                     </Link>
